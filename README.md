@@ -1,0 +1,5 @@
+- 👋 Hello, I go by Eddy and I am currently trying to break into the tech industry!
+- 👀 I’m interested in learning on how to build responsive and fun websites as well as going to the gym.
+- 🌱 I’m currently learning HTML, CSS, and a bit of Python!
+- 💞️ I’m looking for assistance and feedback on code that I will be posting here so I can improve and progress on my coding journey!
+- 📫 How to reach me.. I have still.eddy on most socials if you'd like to connect with me there!
